@@ -12,7 +12,7 @@ A curated wiki distilling the 2026 *International Journal of Molecular Sciences*
 - [Candidate processes (RNA, ECM)](src/concepts/candidate-processes.md) — §14
 - [Causal-module framework](src/concepts/causal-modules.md) — §15 (four-question appraisal, network feedback)
 - [Clinical translation program](src/concepts/clinical-translation.md) — §16
-- **Full text** at `src/sources/sensors-8080-fulltext.md` (195 KB, 161 references)
+- **Full text** at `src/sources/ijms-27-18-8080-fulltext.md` (195 KB, 161 references)
 
 ## Layout
 

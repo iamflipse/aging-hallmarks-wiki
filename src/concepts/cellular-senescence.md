@@ -1,6 +1,6 @@
 # Cellular Senescence
 
-*Source: [§9 of the paper](../sources/sensors-8080-fulltext.md)*
+*Source: [§9 of the paper](../sources/ijms-27-18-8080-fulltext.md)*
 
 ## The senescent state
 

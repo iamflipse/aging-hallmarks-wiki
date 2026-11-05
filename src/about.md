@@ -32,4 +32,4 @@ This appraisal exposes where evidence is strong (e.g., senescence, mitochondrial
 - [Candidate processes](concepts/candidate-processes.md) (RNA processing, ECM remodeling)
 - [Causal-module framework](concepts/causal-modules.md) (four-question appraisal, network feedback, combination-therapy logic)
 - [Clinical translation](concepts/clinical-translation.md) (levels of claim: target engagement → biomarker → disease modification → function → resilience → organismal aging)
-- [Full text](sources/sensors-8080-fulltext.md) as source of truth (195 KB, 161 references)
+- [Full text](sources/ijms-27-18-8080-fulltext.md) as source of truth (195 KB, 161 references)

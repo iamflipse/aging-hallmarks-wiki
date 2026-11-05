@@ -1,6 +1,6 @@
 # Disabled Macroautophagy
 
-*Source: [§6 of the paper](../sources/sensors-8080-fulltext.md)*
+*Source: [§6 of the paper](../sources/ijms-27-18-8080-fulltext.md)*
 
 ## Mechanisms
 

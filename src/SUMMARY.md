@@ -20,4 +20,4 @@
 - [From Descriptive Hallmarks to Causal Modules](concepts/causal-modules.md)
 - [Clinical Translation](concepts/clinical-translation.md)
 # Source
-- [Full Text — IJMS 27(18):8080](sources/sensors-8080-fulltext.md)
+- [Full Text — IJMS 27(18):8080](sources/ijms-27-18-8080-fulltext.md)

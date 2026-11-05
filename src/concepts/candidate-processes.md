@@ -1,6 +1,6 @@
 # Candidate Processes & Omitted Dimensions
 
-*Source: [§14 of the paper](../sources/sensors-8080-fulltext.md)*
+*Source: [§14 of the paper](../sources/ijms-27-18-8080-fulltext.md)*
 
 The review examines two processes as **candidate additions** to the 12-hallmark framework — deliberately *not* classified as established hallmarks:
 

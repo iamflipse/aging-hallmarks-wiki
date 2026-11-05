@@ -1,6 +1,6 @@
 # Clinical Translation
 
-*Source: [§16 of the paper](../sources/sensors-8080-fulltext.md)*
+*Source: [§16 of the paper](../sources/ijms-27-18-8080-fulltext.md)*
 
 ## Levels of translational claim
 

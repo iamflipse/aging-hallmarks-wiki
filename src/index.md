@@ -27,7 +27,7 @@ The paper appraises the **12 hallmarks of aging** with a **four-question evidenc
 
 ## Source
 
-- [Full text (IJMS 27(18):8080)](sources/sensors-8080-fulltext.md) — complete paper including 161 references
+- [Full text (IJMS 27(18):8080)](sources/ijms-27-18-8080-fulltext.md) — complete paper including 161 references
 - Original: [MDPI](https://www.mdpi.com/1422-0067/27/18/8080) · DOI [10.3390/ijms27188080](https://doi.org/10.3390/ijms27188080)
 
 ## Related

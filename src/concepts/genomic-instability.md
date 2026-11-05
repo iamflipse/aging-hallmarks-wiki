@@ -1,6 +1,6 @@
 # Genomic Instability
 
-*Source: [§2 of the paper](../sources/sensors-8080-fulltext.md)*
+*Source: [§2 of the paper](../sources/ijms-27-18-8080-fulltext.md)*
 
 ## Mechanisms
 

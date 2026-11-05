@@ -1,6 +1,6 @@
 # Dysbiosis & Barrier Dysfunction
 
-*Source: [§13 of the paper](../sources/sensors-8080-fulltext.md)*
+*Source: [§13 of the paper](../sources/ijms-27-18-8080-fulltext.md)*
 
 ## Gut microbiome in aging
 

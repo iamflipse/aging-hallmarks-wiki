@@ -1,6 +1,6 @@
 # From Descriptive Hallmarks to Causal Modules
 
-*Source: [§15 of the paper](../sources/sensors-8080-fulltext.md)*
+*Source: [§15 of the paper](../sources/ijms-27-18-8080-fulltext.md)*
 
 ## The three original hallmark criteria (López-Otín 2023)
 
@@ -9,6 +9,19 @@
 3. Experimental **amelioration** delays/attenuates aging
 
 Sound, but insufficient unless "aging" and the outcome are explicitly defined — a change may be **causal, compensatory, or merely consequential**.
+
+## The paper's four-question appraisal framework
+
+From the paper's introduction, verbatim:
+
+> We propose a framework for evaluating the hallmarks based on four key questions.
+>
+> 1. Does the process change **reproducibly with age** in relevant human tissues?
+> 2. Does **experimental manipulation** alter age-related function or survival rather than an isolated molecular readout?
+> 3. Is the effect **conserved across biological contexts**?
+> 4. Can the process be **measured and modified in humans**?
+
+The review applies this four-question framework to each of the 12 hallmarks, and Table 1 summarizes the resulting evidence base.
 
 ## Strong causal inference requires
 
